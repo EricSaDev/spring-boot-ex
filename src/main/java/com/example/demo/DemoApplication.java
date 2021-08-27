@@ -11,7 +11,7 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String home(){
-		return "<h3>Spring Boot Application with Webhook</h3>";
+		return "<h3>Spring Boot Application - With Webhook</h3>";
 	}
 
 	public static void main(String[] args) {
